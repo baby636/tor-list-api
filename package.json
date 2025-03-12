@@ -31,8 +31,8 @@
   },
   "repository": "Permissionless-Software-Foundation/tor-list-api",
   "dependencies": {
-    "@psf/bch-js": "^4.17.0",
-    "axios": "^0.21.1",
+    "@psf/bch-js": "^4.20.24",
+    "axios": "^1.8.2",
     "bch-message-lib": "^1.13.4",
     "bcryptjs": "^2.4.3",
     "glob": "^7.1.6",
