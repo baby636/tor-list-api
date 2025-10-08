@@ -31,7 +31,7 @@
   },
   "repository": "Permissionless-Software-Foundation/tor-list-api",
   "dependencies": {
-    "@psf/bch-js": "^4.17.0",
+    "@psf/bch-js": "^6.8.2",
     "axios": "^0.21.1",
     "bch-message-lib": "^1.13.4",
     "bcryptjs": "^2.4.3",
@@ -50,7 +50,7 @@
     "koa-static": "^5.0.0",
     "line-reader": "^0.4.0",
     "mongoose": "^5.11.15",
-    "nodemailer": "^6.4.17",
+    "nodemailer": "^7.0.7",
     "orbit-db": "^0.26.1",
     "passport-local": "^1.0.0",
     "winston": "^3.3.3",
